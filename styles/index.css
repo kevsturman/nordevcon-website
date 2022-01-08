@@ -1,6 +1,8 @@
 @tailwind base;
 @tailwind components;
 
+@import "./hexagons.scss";
+
 /*
 TODO: Fix Tailwind not working in @import:
 @import "./button.css";
